@@ -9,6 +9,11 @@ The ninth-grade students  at Tohmas High School have been cheating. While admini
 	* Software: Python 3.8.3, Jupyter Notebooks
 
 ## Recreate the district and school summary DataFrames
-![alt_text](https://github.com/n-toy/School_District_Analysis/blob/master/Resources/District_summary_original.jpg)
+# Original District Summary
+![Original District Summary](https://github.com/n-toy/School_District_Analysis/blob/master/Resources/District_summary_original.jpg)
+
+# Fixed District Summary
+![Fixed District Summary](https://github.com/n-toy/School_District_Analysis/blob/master/Resources/District_summary_fixed.jpg)
+
 * How is the district summary affected?
 * How is the school summary affected?
