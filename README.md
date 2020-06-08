@@ -9,5 +9,5 @@ The ninth-grade students  at Tohmas High School have been cheating. While admini
 	* Software: Python 3.8.3, Jupyter Notebooks
 
 ## Recreate the district and school summary DataFrames
-	* How is the district summary affected?
-	* How is the school summary affected?
+* How is the district summary affected?
+* How is the school summary affected?
