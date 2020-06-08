@@ -25,3 +25,6 @@ There is very little impact to the district summary. The percentage of student p
 ### Fixed School Summary
 ![Fixed School Summary](https://github.com/n-toy/School_District_Analysis/blob/master/Resources/school_summary_fixed.jpg)
 
+The percentage of students passing math and reading at Thomas High School drops dramatically. Originally Thomas High School some of the highest percentage of excelling students with a 90.1% overall passing percentage
+
+Thomas High School now has a 65.1% overall passing percentage which is a reduction of 25%. Thomas High School's passing math and passing reading percentages also suffer similar reductions of over 20%.
